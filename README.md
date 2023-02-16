@@ -1,3 +1,3 @@
 # Gandhinagar-universirty
-hello is a page of html+css
+Hello this is a page of html+css
 
